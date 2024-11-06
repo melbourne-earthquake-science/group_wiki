@@ -10,4 +10,4 @@ It provides some basic information on admistative proceedures related to:
 * vehicle booking
 * themis
 
-__These notes are working drafts created to facilitate and expedite administrative processes at the University of Melbourne. Please do not consider any information here as authoritative or final. For accurate and up-to-date information, always refer to the official University of Melbourne documentation and resources.__
+_These notes are working drafts created to facilitate and expedite administrative processes at the University of Melbourne. Please do not consider any information here as authoritative or final. For accurate and up-to-date information, always refer to the official University of Melbourne documentation and resources._

@@ -1,7 +1,7 @@
 # group_wiki
 
 
-Click on the Wiki tab, or (this link)[https://github.com/melbourne-earthquake-science/group_wiki/wiki] to get to the wiki. 
+Click on the Wiki tab, or [this link](https://github.com/melbourne-earthquake-science/group_wiki/wiki) to get to the wiki. 
 
 It provides some basic information on administrative proceedures related to:
 

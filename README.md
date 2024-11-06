@@ -3,7 +3,7 @@
 
 Click on the Wiki tab, or this link to get to the wiki. 
 
-It provides some basic information on admistative proceedures related to:
+It provides some basic information on administrative proceedures related to:
 
 * trips/travel
 * fieldwork risk/safety 

@@ -1,4 +1,4 @@
-# MES group wiki
+# Group wiki
 
 
 Click on the Wiki tab, or [this link](https://github.com/melbourne-earthquake-science/group_wiki/wiki) to get to the wiki. 

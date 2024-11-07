@@ -8,6 +8,7 @@ It provides some basic information on administrative proceedures related to:
 * trips/travel
 * fieldwork risk/safety 
 * vehicle booking
+* training
 * themis
 * HR
 
